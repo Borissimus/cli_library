@@ -12,6 +12,7 @@ set(SOURCES
     app/main.c
     src/cli.c
     src/log.c
+	src/serial_port.c
 )
 
 # Create an executable

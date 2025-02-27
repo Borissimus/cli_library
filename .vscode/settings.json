@@ -1,0 +1,12 @@
+{
+	"files.associations": {
+		"Kconfig": "properties",
+		"*.dtsi": "ssh_config",
+		"*.series": "editorconfig",
+		"*.overlay": "editorconfig",
+		"tlsr9118_app_ipc_zephyr_defconfig": "properties",
+		"errno.h": "c",
+		"string.h": "c",
+		"new": "c"
+	}
+}
